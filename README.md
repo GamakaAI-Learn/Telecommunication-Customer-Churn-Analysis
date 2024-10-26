@@ -1,5 +1,5 @@
 
-### Telecommunication-Customer-Churn-Analysis:Exploratory Data Analysis
+### Telecommunication-Customer-Churn-Analysis: Exploratory Data Analysis
 
 ![image](https://github.com/user-attachments/assets/c83efaba-d4c4-43dd-992b-c6dbec43d80a)
 
